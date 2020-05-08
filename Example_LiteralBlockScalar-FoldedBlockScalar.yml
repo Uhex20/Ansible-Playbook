@@ -1,0 +1,12 @@
+# Values can span multiple lines using | or >. Spanning multiple lines using a “Literal Block Scalar” | will include the newlines and any trailing spaces.
+# Using a “Folded Block Scalar” > will fold newlines to spaces; it’s used to make what would otherwise be a very long line easier to read and edit. 
+# In either case the indentation will be ignored.
+include_newlines: |
+            exactly as you see
+            will appear these three
+            lines of poetry
+
+fold_newlines: >
+            this is really a
+            single line of text
+            despite appearances
