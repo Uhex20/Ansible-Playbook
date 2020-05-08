@@ -1,6 +1,5 @@
 # Dictionaries and lists can also be represented in an abbreviated form.
 
-
 ---
 martin: {name: John Smith, job: Developer, skill: Ansible}
 ['Apple', 'Orange', 'Banana', 'Grape']
