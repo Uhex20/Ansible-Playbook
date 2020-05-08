@@ -1,6 +1,6 @@
 
 # A dictionary is represented in a simple key: value form (the colon must be followed by a space):
-# An employee record
+# An employee record 
 John:
     name: John Smith
     job: Developer
