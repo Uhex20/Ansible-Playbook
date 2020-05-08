@@ -1,0 +1,16 @@
+#More complicated data structures are possible, such as lists of dictionaries, dictionaries whose values are lists or a mix of both:
+# Employee records
+-  John:
+    name: John Smith
+    job: Developer
+    skills:
+      - python
+      - C
+      - pascal
+-  Roy:
+    name: Roy kolma
+    job: Developer
+    skills:
+      - Ansible
+      - Java
+      - AWS
